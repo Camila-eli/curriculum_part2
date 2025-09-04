@@ -246,3 +246,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // Última modificación: ju.,  4 de sep. de 2025 16:06:23
 // Actualizado: 2025-09-04 16:10:11
  
+// Función para inicializar componentes
