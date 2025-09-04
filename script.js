@@ -247,3 +247,4 @@ document.addEventListener('DOMContentLoaded', function() {
 // Actualizado: 2025-09-04 16:10:11
  
 // Función para inicializar componentes
+// Polyfill para características modernas
